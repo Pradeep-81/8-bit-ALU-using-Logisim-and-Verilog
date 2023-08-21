@@ -1,4 +1,3 @@
-// Code your design here
 module ALU8bit(
   input [2:0] Opcode,
   input [7:0] Operand1,
